@@ -16,6 +16,6 @@
 
 - DM me if you have any questions
 
-#My first step was to create a 3 part index file with seperate header, footer, and index files.
+# My first step was to create a 3 part index file with seperate header, footer, and index files.
 
     -This can later be maipulated by way of Javascript or PHP
