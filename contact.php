@@ -4,7 +4,7 @@ require('header.php');
 ?>
 </header>
 
-<form class="contact-form" action="">
+<form class="contact-form" action="contact.incl.php" method="post">
     <input type="text" id="fnm" placeholder="First Name" required autocomplete="on">
     <input type="text" id="lnm" placeholder="Last Name" required autocomplete="on">
     <input type="text" id="eml" placeholder="Email" required autocomplete="on">

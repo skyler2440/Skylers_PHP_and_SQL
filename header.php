@@ -8,6 +8,7 @@
  <head>
     <meta charset="utf8">
     <link rel="stylesheet" href="css/style.css">
+    <meta viewport="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
